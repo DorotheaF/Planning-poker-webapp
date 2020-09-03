@@ -3,7 +3,7 @@ Created a planning poker webapp summer 2020 with a virtual agile team for Northr
 
 <img src="https://github.com/DorotheaF/Planning-poker-webapp/blob/master/PP1_watermarked.jpg" width="200" />
 
-<img src=https://github.com/DorotheaF/Planning-poker-webapp/blob/master/pp2_watermarked.jpg"" width="200"/>
+<img src="https://github.com/DorotheaF/Planning-poker-webapp/blob/master/pp2_watermarked.jpg" width="200"/>
 
 <img src="https://github.com/DorotheaF/Planning-poker-webapp/blob/master/PP3_watermarked.jpg" width="200" />
 
