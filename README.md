@@ -7,6 +7,6 @@ Created a planning poker webapp summer 2020 with a virtual agile team for Northr
 
 <img src="https://github.com/DorotheaF/Planning-poker-webapp/blob/master/PP3_watermarked.jpg" width="200" />
 
-<img src="https://github.com/DorotheaF/Planning-poker-webapp/blob/master/Watermaked_PPDemo.mp4" width="200" />
+[![](https://github.com/DorotheaF/Planning-poker-webapp/blob/master/Watermaked_PPDemo.mp4)]
 
 We used meteor, a combination of React.js, Node.js, and MongoDB
