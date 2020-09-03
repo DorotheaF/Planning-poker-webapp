@@ -10,6 +10,7 @@ This is a user's view after the cards were revealed and the user stories were as
 <img src="https://github.com/DorotheaF/Planning-poker-webapp/blob/master/PP3_watermarked.jpg" height="300" />
 This is the webapp in quarter screen size, demonstarting the dynamic scaling and component organization.
 
-[Video version](https://github.com/DorotheaF/Planning-poker-webapp/blob/master/Watermaked_PPDemo.mp4)
+
+Here is a [video version](https://github.com/DorotheaF/Planning-poker-webapp/blob/master/Watermaked_PPDemo.mp4) of the entire app's functionality.
 
 We used meteor, a combination of React.js, Node.js, and MongoDB
